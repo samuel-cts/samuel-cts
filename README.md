@@ -1,7 +1,7 @@
 # samuel-cts.github.io
 # 💫 About Me:
-Estudo muito<br>Da aulas e programar<br>Ajudas em alguns códigos e tarefas diárias<br>Curso Analise e desenvolvimento de sistemas<br>Exatas <3 <br>
-
+Meu nome é Samuel, tenho 17 anos e moro em Varginha/MG.<br>
+Atualmente estou cursando o 3° ano do Curso técnico de Analise e Desenvolvimento de Sistemas, na Escola Estadual Deputado Domingos de Figueiredo (Industrial).
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
